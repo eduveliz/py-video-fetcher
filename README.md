@@ -1,5 +1,5 @@
 
-# 🎬 yt-dlp-fastapi-backend
+# py-video-fetcher
 
 A lightweight backend built with **Python** and **FastAPI** that receives video links and manages downloads using [yt-dlp](https://github.com/yt-dlp/yt-dlp).
 
