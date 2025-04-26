@@ -8,7 +8,6 @@ pydantic
 pydantic_core
 sniffio
 starlette
-typing-inspection
 typing_extensions
 uvicorn
 yt-dlp
